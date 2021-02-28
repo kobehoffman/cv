@@ -1,0 +1,93 @@
+body {
+  background-color: #AAAAAA;
+}
+
+.header {
+  border: none;
+}
+
+.trheader {
+  border: none
+}
+
+.tdheader {
+  border: none
+}
+
+.headshot {
+  border: none
+}
+
+h1 {
+  color: #d0e8f2;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+h3 {
+  color: #d0e8f2;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+p {
+  color: #456268;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+ol {
+  color: #456268;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+ul {
+  color: #456268;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+table, th {
+  border: 5px solid #d0e8f2;
+  border-collapse: separate;
+  border-style: solid;
+  border-radius: 15%;
+  border-radius: 20px / 20px;
+}
+
+td {
+  border: 3px solid #d0e8f2;
+  border-collapse: separate;
+  border-style: solid;
+  border-radius: 15%;
+  border-radius: 5px / 5px;
+}
+
+tr {
+  color: #456268;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+td {
+  color: #456268;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+form {
+  color: #456268;
+  font-family: "helvetica Neue", "Arial", Sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: grey;
+  border-width: 5px;
+  width: 65%;
+  border-radius: 100%;
+  border-radius: 5px / 5px;
+}
+
+.sitelink:hover {
+  cursor:pointer;
+  transform: translateY(.4px);
+  transform: scale(1.5);
+  transition: all 1s linear;
+
+}
